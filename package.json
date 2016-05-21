@@ -1,7 +1,7 @@
 {
-  "name": "chat-example",
+  "name": "Short URL",
   "version": "0.0.1",
-  "description": "URL shrinker",
+  "description": "URL shortener",
   "main": "server.js",
   "repository": "https://github.com/lucamarani/small-url.git",
   "author": "Luca Marani <writetolucamarani@gmail.com>",
