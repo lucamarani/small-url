@@ -12,7 +12,8 @@
     "express": "^4.12.4",
     "express-session": "^1.11.3",
     "mongoose": "^4.4.17",
-    "node": "4.1.1",
+    "node": "5.11.1",
+    "npm": "3.8.6",
     "passport": "^0.3.0",
     "passport-github": "^1.0.0",
     "socket.io": "~0.9.14"
