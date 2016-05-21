@@ -7,13 +7,14 @@
   "author": "Luca Marani <writetolucamarani@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "async": "~0.2.8",
+    "async": "^0.2.10",
     "dotenv": "^1.2.0",
-    "express": "^4.12.4",
-    "express-session": "^1.11.3",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongodb": "^2.1.19",
     "mongoose": "^4.4.17",
-    "passport": "^0.3.0",
-    "passport-github": "^1.0.0",
-    "socket.io": "~0.9.14"
+    "passport": "^0.3.2",
+    "passport-github": "^1.1.0",
+    "socket.io": "^0.9.17"
   }
 }
