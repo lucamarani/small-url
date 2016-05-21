@@ -1,8 +1,7 @@
-
 <!doctype html>
 <html lang="en">
     <head>
-        <title>Timestamp microservice</title>
+        <title>URL shortener microservice</title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
     </head>
     <body>
@@ -16,19 +15,19 @@
                 <ul>2) When I visit that shortened URL, it will redirect me to my original link.</ul>
             </blockquote>
             <h3>Example usage:</h3>
-            <code>https://little-url.herokuapp.com/new/https://https://www.google.com</code><br>
-            <code>https://little-url.herokuapp.com/new/http://foo.com:80</code>
+            <code>https://small-url.herokuapp.com/set/https://www.google.com</code><br>
+            <code>https://small-url.herokuapp.com/set/http://foo.com:80</code>
             <h3>Example output:</h3>
             <code>
                 { 
                 "original_url":"http://foo.com:80", 
-                "short_url":"https://little-url.herokuapp.com/8170" 
+                "short_url":"https://small-url.herokuapp.com/abc" 
                 }
             </code>
             <h3>Usage:</h3>
             <code>
                 { 
-                https://little-url.herokuapp.com/2871
+                https://small-url.herokuapp.com/i5
                 }
             </code>
             <h3>Will redirect to:</h3>

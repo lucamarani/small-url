@@ -54,7 +54,7 @@ var database = {
                             used: true
                         }
                     });
-                    callback({ original_url: url, short_url: 'https://app.com/' + r.toString(36) });
+                    callback({ original_url: url, short_url: 'https://small-url.herokuapp.com/' + r.toString(36) });
                 });
         });
     },
