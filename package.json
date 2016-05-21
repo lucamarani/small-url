@@ -1,5 +1,5 @@
 {
-  "name": "small-url,
+  "name": "small-url",
   "version": "0.0.1",
   "description": "URL shortener",
   "main": "server.js",
