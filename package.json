@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "URL shrinker",
   "main": "server.js",
-  "repository": "https://github.com/lucamarani/short-url.git",
+  "repository": "https://github.com/lucamarani/small-url.git",
   "author": "Luca Marani <writetolucamarani@gmail.com>",
   "license": "MIT",
   "dependencies": {
