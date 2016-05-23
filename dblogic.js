@@ -60,7 +60,6 @@ var database = {
     },
     
     get: function(code, callback) {
-        console.log(code);
         database.urls.findOne({code: parseInt(code, 36)}, {url: 1}).then(function(e) {callback(e.url);});
     }
     
