@@ -3,7 +3,7 @@ var max = parseInt('zzz', 36)
 
 var database = {
     
-    uri: 'mongodb://urlDB:shortUrlDatabase@ds011482.mlab.com:11482/short-urls',
+    uri: process.env.MONGOURI,
     
     connection: null,
     
