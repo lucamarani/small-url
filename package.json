@@ -8,10 +8,10 @@
     "dotenv": "^1.2.0",
     "express": "^4.13.4",
     "express-session": "^1.13.0",
-    "mongodb": "^2.1.19",
+    "mongodb": "latest",
     "passport": "^0.3.2",
-    "mongoose": "^4.4.17",
-    "socket.io": "^0.9.17",
+    "mongoose": "latest",
+    "socket.io": "latest",
     "passport-github": "^1.1.0"
   },
   "devDependencies": {},
